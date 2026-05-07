@@ -177,7 +177,7 @@ Faculty of Computers and Information
 - SQL Database
 - Password Encryption
 - Admin Dashboard
-- Mobile App
+- Desktop App
 - Better Security
 
 ---
