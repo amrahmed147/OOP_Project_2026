@@ -159,18 +159,9 @@ history.txt
 
 ---
 
-# 📸 Screenshots
-
-(Add your screenshots here)
-
----
-
 # 👨‍💻 Team
 
-## CODesta
-
-- Omar
-- Amr
+## Codesta
 
 ---
 
